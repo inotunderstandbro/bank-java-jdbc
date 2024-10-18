@@ -9,8 +9,6 @@ public class DadosCadastroCliente {
        this.cpf = cpf;
        this.nome = nome;
        this.email = email;
-
-
    }
 
 
